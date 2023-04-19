@@ -1,4 +1,5 @@
 # <img src="https://iconape.com/wp-content/files/hk/370521/svg/airbnb-logo-icon-png-svg.png" width=20> AirBnB Clone - MySQL Database <img src="https://iconape.com/wp-content/files/hk/370521/svg/airbnb-logo-icon-png-svg.png" width=20>
+`Python 3` `OOP` `Back-End Development` `SQL` `MySQL` `ORM` `SQLAlchemy`
 
 <img src="https://github.com/Toby16/AirBnB_clone/blob/main/assets/hbnb_logo.png" alt="HolbertonBnB logo">
 
@@ -15,3 +16,9 @@
 * It will store all the data related to properties, users, bookings, and any other relevant information.
 * The database will be designed to efficiently handle large amounts of data and provide fast access to that data when requested by the website.
 <p>Overall, the MySQL database component is an essential part of the Airbnb website project, providing the necessary data storage and management capabilities for the website to function properly.</p>
+
+## Technologies Used
+* MySQL
+* Python 3
+* SQLAlchemy `ORM`
+
