@@ -64,3 +64,9 @@ class FileStorage:
             pass
         else:
             self.all().pop(obj.__class__.__name__ + "." + obj.id)
+
+    def close(self):
+        """
+        Deserializes the python objects
+        """
+        self.reload()
